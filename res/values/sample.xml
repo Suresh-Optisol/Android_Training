@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <color name="ora">#FFBB33</color>
+    <color name="gold">#FFD700</color>
+    <style name="venus">
+        <item name="android:textColor">@color/ora</item>
+        <item name="android:textStyle">bold|italic</item>
+        <item name="android:inputType">text</item>
+        <item name="android:gravity">center</item>
+        
+    </style>
+    
+  
+    <style name="venus.pass">
+        <item name="android:inputType">textPassword</item>
+    </style>
+</resources>
